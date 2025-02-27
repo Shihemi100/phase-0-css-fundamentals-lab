@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+#Header1  {text-align: center;
+}
+#a {
+padding:right 10px;
+padding:left 10px;
+background-color:grey;
+text-align: center;
+}
+#A {text-align:center;}
+#div {float: left;
+background-color:red;
+width:25%;
+}
+#featured-property p{width:800px;
+text-align:center;
+margin:auto;}
+#figure {text-align:center;font-size:12px;}
+
+
+
+
+
+
+
+
+
+
+
